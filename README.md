@@ -28,9 +28,6 @@ Building autonomous systems that solve real-world problems.
 - **LOOP** – Reusable, resettable chewable ring + hot-water/UV reset box (hardware + control)  
 
 
-> Add repos as they go public:  
-> `- [ARIES](https://github.com/your-username/aries)`  
-> `- [LOOP](https://github.com/your-username/loop)`  
 
 ## 📫 Reach Me
 - Email: **Abbas.diab67@gmail.com**  
