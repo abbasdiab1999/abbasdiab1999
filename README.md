@@ -26,12 +26,11 @@ Building autonomous systems that solve real-world problems.
 ## 🏗️ Featured Projects
 - **ARIES** – Rescue robot platform with SLAM, thermal vision, gas detection, and manipulator control  
 - **LOOP** – Reusable, resettable chewable ring + hot-water/UV reset box (hardware + control)  
-- **OCULOCK** – iPhone security/privacy cover concept with edge AI detection
+
 
 > Add repos as they go public:  
 > `- [ARIES](https://github.com/your-username/aries)`  
 > `- [LOOP](https://github.com/your-username/loop)`  
-> `- [OCULOCK](https://github.com/your-username/oculock)`
 
 ## 📫 Reach Me
 - Email: **Abbas.diab67@gmail.com**  
