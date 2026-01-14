@@ -16,7 +16,7 @@ Building autonomous systems that solve real-world problems.
 
 ## 🧠 Skills & Tools
 **Robotics:** ROS2, SLAM/Localization, Navigation, Sensor Fusion (IMU/LiDAR/Depth)  
-**Software:** C/C++, Python, OpenCV, PCL, PyTorch (basics)  
+**Software:** C/C++, Python, OpenCV, PCL, PyTorch  
 **Embedded & HW:** Arduino, STM32, Raspberry Pi/Jetson, Serial/UDP, PCB basics  
 **DevOps:** Linux, Git/GitHub, Docker, GitHub Actions  
 **Other:** CAD/URDF, Real-time telemetry, Systems integration
